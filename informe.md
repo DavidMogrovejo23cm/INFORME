@@ -1,4 +1,4 @@
-# Práctica No. 1 – Gestión y Manipulación de Archivos y Directorios Mediante Comandos Básicos de Linux con Warp Terminal
+# Práctica No. 1 – Gestión y Manipulación de Archivos y Directorios Mediante Comandos Básicos de Linux
 
 **Estudiante:** David Mogrovejo
 **Asignatura:** Sistemas Operativos
