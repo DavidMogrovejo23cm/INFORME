@@ -1,4 +1,4 @@
-# Práctica No. 1 — Servidores Web con Nginx usando Docker
+# Informe Semana 2 — Servidores Web con Nginx usando Docker
 
 ## 1. Título
 
